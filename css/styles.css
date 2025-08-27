@@ -15,8 +15,9 @@ body{
     margin: 0px auto;
 }
 
-#container h1{
+#container h1, h3{
     font-size: 20px;
+    text-align: center;
 }
 
 #cabecera{
@@ -31,4 +32,9 @@ body{
 #cabecera #tagline{
     padding: 0 0 0 1em;
     font-weight: normal;
+}
+
+footer{
+    text-align: center; 
+    margin: 10px;
 }
